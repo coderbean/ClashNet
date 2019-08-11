@@ -3,6 +3,8 @@ Another Windows GUI for Clash
 
 **.NET Framwork 4.7.2+ required**
 
+**Support 64-bit windows os only**
+
 # Quick Start
 1. download at [this page](https://github.com/coderbean/ClashNet/releases)
 2. unzip 
