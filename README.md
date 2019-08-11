@@ -20,6 +20,7 @@ Checkout [Clash](https://github.com/Dreamacro/clash) or [SS-Rule-Snippet0](https
 ```
 shadowsocks-windows(GPLv3)   https://github.com/shadowsocks/shadowsocks-windows
 clash(MIT)                   https://github.com/Dreamacro/clash
+yacd                         https://github.com/haishanh/yacd
 ```
 
 # TODO
