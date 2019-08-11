@@ -1,0 +1,8 @@
+/.vs/
+Backup/
+bin/
+obj/
+ClashNet.csproj.user
+
+shadowsocks-csharp/3rd/*
+packages/*
